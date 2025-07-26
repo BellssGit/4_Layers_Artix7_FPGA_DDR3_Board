@@ -21,4 +21,4 @@ Board
 
 ![3.jpg](https://s2.loli.net/2025/07/26/F62N4IWUlGZfME9.png)
 
-Video output via HDMI
+Capture by IMX183 sensor, 720P@60FPS video output via HDMI
